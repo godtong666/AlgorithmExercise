@@ -5,6 +5,9 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * 错误方法：思路错误
+ */
 public class Solution implements com.godtong.slidingwindow.p438.Solution {
     @Override
     public List<Integer> findAnagrams(String s, String p) {
