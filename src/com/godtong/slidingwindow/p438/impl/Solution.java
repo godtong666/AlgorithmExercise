@@ -1,11 +1,11 @@
-package com.godtong.p438.impl;
+package com.godtong.slidingwindow.p438.impl;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Solution implements com.godtong.p438.Solution {
+public class Solution implements com.godtong.slidingwindow.p438.Solution {
     @Override
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> list = new ArrayList<>();
