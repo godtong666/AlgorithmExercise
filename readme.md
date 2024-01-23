@@ -24,3 +24,26 @@ valid变量保存的是有效字符数。valid == need.size()，就说明了窗�
 [p567](src%2Fcom%2Fgodtong%2Fslidingwindow%2Fp567)
 
 这道题和438题差不多
+
+# 子串
+
+## 560. 和为 K 的子数组
+
+[p560](src%2Fcom%2Fgodtong%2Fp560)
+
+### 我的解答
+
+[Solution.java](src%2Fcom%2Fgodtong%2Fp560%2FSolution.java) 这个思路错误，没考虑到负数的情况
+
+### 根据题解的解答
+
+https://leetcode.cn/problems/subarray-sum-equals-k/solutions/238572/he-wei-kde-zi-shu-zu-by-leetcode-solution
+
+[Solution1.java](src%2Fcom%2Fgodtong%2Fp560%2FSolution1.java) 暴力解法
+
+
+[Solution2.java](src%2Fcom%2Fgodtong%2Fp560%2FSolution2.java) 前缀和 + 哈希表优化（没太懂）
+
+主要思路就是，pre[j−1]==pre[i]−k。
+![img.png](img.png)
+
