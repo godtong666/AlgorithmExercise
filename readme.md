@@ -47,3 +47,15 @@ https://leetcode.cn/problems/subarray-sum-equals-k/solutions/238572/he-wei-kde-z
 主要思路就是，pre[j−1]==pre[i]−k。
 ![img.png](img.png)
 
+## 239. 滑动窗口最大值
+[p239](src%2Fcom%2Fgodtong%2Fp239)
+
+### 我的解答
+
+[Solution.java](src%2Fcom%2Fgodtong%2Fp239%2FSolution.java) 错误！未通过测试用例
+
+### 根据题解的解答
+
+https://leetcode.cn/problems/sliding-window-maximum/solutions/543426/hua-dong-chuang-kou-zui-da-zhi-by-leetco-ki6m
+
+[Solution1.java](src%2Fcom%2Fgodtong%2Fp239%2FSolution1.java) 方法一：优先队列
