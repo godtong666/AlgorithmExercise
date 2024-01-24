@@ -59,3 +59,4 @@ https://leetcode.cn/problems/subarray-sum-equals-k/solutions/238572/he-wei-kde-z
 https://leetcode.cn/problems/sliding-window-maximum/solutions/543426/hua-dong-chuang-kou-zui-da-zhi-by-leetco-ki6m
 
 [Solution1.java](src%2Fcom%2Fgodtong%2Fp239%2FSolution1.java) 方法一：优先队列
+[Solution2.java](src%2Fcom%2Fgodtong%2Fp239%2FSolution2.java) 方法二：单调递减队列
