@@ -72,4 +72,6 @@ https://leetcode.cn/problems/maximum-subarray/solutions/9058/dong-tai-gui-hua-fe
 
 [Solution.java](src%2Fcom%2Fgodtong%2Farray%2Fp53%2FSolution.java) 方法一：动态规划
 
+[Solution2.java](src%2Fcom%2Fgodtong%2Farray%2Fp53%2FSolution2.java) 方法二：分治法
+
 
