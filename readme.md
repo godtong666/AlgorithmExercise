@@ -60,3 +60,16 @@ https://leetcode.cn/problems/sliding-window-maximum/solutions/543426/hua-dong-ch
 
 [Solution1.java](src%2Fcom%2Fgodtong%2Fp239%2FSolution1.java) 方法一：优先队列
 [Solution2.java](src%2Fcom%2Fgodtong%2Fp239%2FSolution2.java) 方法二：单调递减队列
+
+# 普通数组
+[array](src%2Fcom%2Fgodtong%2Farray)
+
+## 53. 最大子数组和
+[p53](src%2Fcom%2Fgodtong%2Farray%2Fp53)
+
+### 根据题解的解答
+https://leetcode.cn/problems/maximum-subarray/solutions/9058/dong-tai-gui-hua-fen-zhi-fa-python-dai-ma-java-dai
+
+[Solution.java](src%2Fcom%2Fgodtong%2Farray%2Fp53%2FSolution.java) 方法一：动态规划
+
+
