@@ -74,4 +74,11 @@ https://leetcode.cn/problems/maximum-subarray/solutions/9058/dong-tai-gui-hua-fe
 
 [Solution2.java](src%2Fcom%2Fgodtong%2Farray%2Fp53%2FSolution2.java) 方法二：分治法
 
+## 56. 合并区间
+
+### 根据题解的解答
+https://leetcode.cn/problems/merge-intervals/solutions/204805/chi-jing-ran-yi-yan-miao-dong-by-sweetiee
+
+[Solution.java](src%2Fcom%2Fgodtong%2Farray%2Fp56%2FSolution.java)
+
 
