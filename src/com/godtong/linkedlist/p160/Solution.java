@@ -1,4 +1,6 @@
-package com.godtong.matrix.p160;
+package com.godtong.linkedlist.p160;
+
+import com.godtong.linkedlist.ListNode;
 
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
